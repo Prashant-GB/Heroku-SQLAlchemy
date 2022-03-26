@@ -1,5 +1,5 @@
 hack.py
 __pycache__/
 *.pyc
-requirements.txt
 data.db
+Herokudoc.txt
